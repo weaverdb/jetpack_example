@@ -11,7 +11,6 @@
  */
 package org.weaverdb.myweaverdbexample
 
-import android.annotation.SuppressLint
 import android.os.Bundle
 import android.util.Log
 import androidx.activity.ComponentActivity
